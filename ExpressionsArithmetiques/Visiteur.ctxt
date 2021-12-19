@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Visiteur
+comment1.params=n
+comment1.target=java.lang.Object\ visiteEntier(Entier)
+comment2.params=i
+comment2.target=java.lang.Object\ visiteInverse(Inverse)
+comment3.params=a
+comment3.target=java.lang.Object\ visiteAddition(Addition)
+comment4.params=s
+comment4.target=java.lang.Object\ visiteSoustraction(Soustraction)
+comment5.params=m
+comment5.target=java.lang.Object\ visiteMultiplication(Multiplication)
+comment6.params=d
+comment6.target=java.lang.Object\ visiteDivision(Division)
+comment7.params=s
+comment7.target=java.lang.Object\ visiteSuccesseur(Suc)
+comment8.params=p
+comment8.target=java.lang.Object\ visitePredecesseur(Pre)
+numComments=9

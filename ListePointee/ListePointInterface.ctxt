@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ListePointInterface
+comment1.params=
+comment1.target=java.lang.Object\ car()
+comment1.text=\r\n\ retourne\ la\ valeur\ du\ premier\ \u00E9l\u00E9ment\ (la\ t\u00EAte)\ de\ la\ liste\ sans\ destruction\r\n\ simple\ lecture...\r\n\ remarque\ \:\ \ on\ ne\ peut\ pas\ obtenir\ la\ t\u00EAte\ d'une\ liste\ vide\r\n
+comment2.params=
+comment2.target=void\ cdr()
+comment2.text=\r\n\ supprime\ la\ tete\ de\ la\ liste\r\n\ remarque\ \:\ \ on\ ne\ peut\ pas\ supprimer\ la\ t\u00EAte\ d'une\ liste\ vide\r\n
+comment3.params=objet
+comment3.target=void\ cons(java.lang.Object)
+comment3.text=\r\n\ proc\u00E9dure\ \:\ ajoute\ 'obj'\ au\ d\u00E9but\ de\ la\ liste;\r\n\ la\ longueur\ de\ la\ liste\ est\ augment\u00E9e\ de\ 1\r\n
+comment4.params=lst
+comment4.target=void\ conc(ListePointInterface)
+comment4.text=\r\n\ proc\u00E9dure\ \:\ concat\u00E8ne\ la\ liste\ 'lst'\ \u00E0\ 'this'\r\n
+comment5.params=
+comment5.target=void\ renverse()
+comment5.text=\r\n\ proc\u00E9dure\ \:\ retourne\ la\ liste\ sur\ elle\ m\u00EAme\r\n
+comment6.params=objet
+comment6.target=boolean\ membre(java.lang.Object)
+comment6.text=\r\n\ pr\u00E9dicat\ \:\ 'objet'\ appartient-il\ \u00E0\ la\ liste\ ?\r\n
+comment7.params=
+comment7.target=boolean\ listeVide()
+comment7.text=\r\n\ pr\u00E9dicat\ \:\ 'this\ est-il\ une\ liste\ vide\ ?\r\n
+comment8.params=
+comment8.target=int\ longueur()
+comment8.text=\r\n\ retourne\ le\ nombre\ d'\u00E9l\u00E9ments\ dans\ la\ liste\r\n
+numComments=9

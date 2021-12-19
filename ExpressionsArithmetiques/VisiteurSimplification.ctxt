@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=VisiteurSimplification
+comment1.params=
+comment1.target=VisiteurSimplification()
+comment2.params=a
+comment2.target=java.lang.Object\ visiteAddition(Addition)
+comment3.params=s
+comment3.target=java.lang.Object\ visiteSoustraction(Soustraction)
+numComments=4

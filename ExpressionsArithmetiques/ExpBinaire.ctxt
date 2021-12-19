@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ExpBinaire
+comment1.params=e1\ e2
+comment1.target=ExpBinaire(Expression,\ Expression)
+numComments=2
