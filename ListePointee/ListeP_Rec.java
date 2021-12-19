@@ -154,33 +154,7 @@ public class ListeP_Rec implements ListePointInterface {
      * dessous...
      */
     public Iterator<Object> iterator() {
-        return new Iterator<Object>() {
-            Maillon temp = elem;
-
-            Iterator<Object> maillonIterator = elem.iterator();
-
-            public boolean hasNext() {
-                /*
-                 * à compléter...
-                 */
-                // return temp != null;
-                return maillonIterator.hasNext();
-            }
-
-            public Object next() {
-                /*
-                 * à compléter...
-                 */
-                // Maillon m = temp;
-                // temp = temp.suite();
-                // return m.valeur();
-                return maillonIterator.next();
-            }
-
-            public void remove() {
-                throw new UnsupportedOperationException();
-            }
-        };
+        return elem.iterator();
     }
     /*
      * ...
